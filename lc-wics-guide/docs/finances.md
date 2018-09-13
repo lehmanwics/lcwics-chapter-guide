@@ -41,6 +41,54 @@ All budgets must include current available funds and running balance if budget i
 
 ---
 
+## <span style="color: orange">*Deposits & Donations*</span>
+
+For information on how to deposit funds from sponsors and accept donations, see the guide in Google Drive under the "Financial" folder.
+
+---
+
+## <span style="color: orange">*Withdrawals & Expenses*</span>
+
+"The following disbursements must be reported [and documented] if they amount to more than $600 per calendar year: awards, prizes, all types of grants, honoraria, fees for professional services, temporary employment, and if the recipient is a permanent resident of the United States. Reimbursements of actual expenses, such as travel reimbursements, need not be reported."
+
+All other withdrawals and expenses must be properly documented for reporting at the end of the fiscal year. 
+
+In general, the chapter should aim to spend the least amount of funds in the chapter's bank account as possible to minimize difficulties with end-of-year reporting.
+
+### Bank Account Withdrawals
+
+For information on how to withdraw funds from the chapter's bank account, see the guide in Google Drive under the "Financial" folder.
+
+### Lehman Start-Up Funds Withdrawals
+
+If you would like to use the club's start-up funds provided by CCD to pay for Lehman College services, send a detailed budget to Nate and confirm receipt within one day of sending the budget. If the request is for a Lehman service, it can be fulfilled automatically. If the request is to pay for a non-Lehman service such as pizza from an outside vendor, you must submit the request at least **two weeks** in advance as checks are disbursed on **Thursdays**. 
+
+Alternatively, you can request reimbursement after paying for services yourself. Receipts must be included.
+
+Budget approvals are not necessary to request withdrawals or use of start-up funds.
+
+---
+
+## <span style="color: orange">*Lehman Funds Requests (Food & Other)*</span>
+
+Lehman College CCD allocates funds from Student Activity Fees to support student events on campus. Clubs are allowed to request funds for flyers, food, decorations, event security, film expenses, honorariums, and other expenses that do not include prizes or disbursement of funds to a non-authorized third party.
+
+Lehman College budget requests are only submitted **once** per semester at the beginning of the semester. **It is extremely important that this deadline not be missed**. Budget submissions are to be completed on Campus Link.
+
+A complete budget, flyer, and complete description of the event (including why it is important and why the funds are needed) is required for the event to be heard and funded. 
+
+Total budget requests in excess of $1,000 for non-Lehman expenses (food not catered by Lehman, for example) should be avoided. Expenses such as Lehman catering and security officers are usually expensive and cannot be avoided. Only consider what is absolutely necessary for an event when requesting funds from CCD.
+
+An e-mail with a hearing date and deadline for budget submissions will be sent to the club and usually occurs a week into the beginning of the semester.
+
+### Reimbursement & Advance of Funds
+
+<span style="color: blue">
+If a budget is not approved or Lehman funds are not disbursed in time for an event, you may be able to request reimbursement from Nate directly. You *must* have all receipts for reimbursement. Alternatively, you can also request an "advance of funds" from Nate and a maximum of $100 is allowed as an advance per person. Checks are made out every Thursday and will be made out to the person requesting the advance.</span>
+
+
+---
+
 ## <span style="color: orange">*Sponsorship Funds (Corporate/Support)*</span>
 
 "For tax purposes, as well as to comply with ACM policy, it is important to distinguish between an acknowledgment of support and
@@ -58,25 +106,5 @@ involved."
 
 ---
 
-## <span style="color: orange">*Withdrawals & Expenses*</span>
 
-"The following disbursements must be reported [and documented] if they amount to more than $600 per calendar year: awards, prizes, all types of grants, honoraria, fees for professional services, temporary employment, and if the recipient is a permanent resident of the United States. Reimbursements of actual expenses, such as travel reimbursements, need not be reported."
-
-All other withdrawals and expenses must be properly documented for reporting at the end of the fiscal year. 
-
-In general, the chapter should aim to spend the least amount of funds in the chapter's bank account as possible to minimize difficulties with end-of-year reporting.
-
----
-
-## <span style="color: orange">*Lehman Funds Requests (Food & Other)*</span>
-
-Lehman College CCD allocates funds from Student Activity Fees to support student events on campus. Clubs are allowed to request funds for flyers, food, decorations, event security, film expenses, honorariums, and other expenses that do not include prizes or disbursement of funds to a non-authorized third party.
-
-Lehman College budget requests are only submitted **once** per semester at the beginning of the semester. **It is extremely important that this deadline not be missed**. Budget submissions are to be completed on Campus Link.
-
-A complete budget, flyer, and complete description of the event (including why it is important and why the funds are needed) is required for the event to be heard and funded. 
-
-Total budget requests in excess of $1,000 for non-Lehman expenses (food not catered by Lehman, for example) should be avoided. Expenses such as Lehman catering and security officers are usually expensive and cannot be avoided. Only consider what is absolutely necessary for an event when requesting funds from CCD.
-
-An e-mail with a hearing date and deadline for budget submissions will be sent to the club and usually occurs a week into the beginning of the semester.
 

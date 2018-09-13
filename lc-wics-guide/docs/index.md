@@ -12,16 +12,22 @@ Use the search bar on the left to search through documentation.
 
 This guide uses MkDocs to create documentation. For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## General MkDocs Commands
+## General MkDocs Commands 
 
-* `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
+* `mkdocs gh-deploy` - Deploy changes to Github.
 
-## Project layout
+## Documentation layout
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        communications.md       
+        events.md
+        finances.md
+        general charter info.md
+        newsletter.md
+        services.md
+        website.md
