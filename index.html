@@ -59,7 +59,7 @@
         
             <li><a class="toctree-l3" href="#general-mkdocs-commands">General MkDocs Commands</a></li>
         
-            <li><a class="toctree-l3" href="#project-layout">Project layout</a></li>
+            <li><a class="toctree-l3" href="#documentation-layout">Documentation layout</a></li>
         
         </ul>
     
@@ -143,16 +143,22 @@
 <p>This guide uses MkDocs to create documentation. For full documentation visit <a href="https://mkdocs.org">mkdocs.org</a>.</p>
 <h2 id="general-mkdocs-commands">General MkDocs Commands</h2>
 <ul>
-<li><code>mkdocs new [dir-name]</code> - Create a new project.</li>
 <li><code>mkdocs serve</code> - Start the live-reloading docs server.</li>
 <li><code>mkdocs build</code> - Build the documentation site.</li>
 <li><code>mkdocs help</code> - Print this help message.</li>
+<li><code>mkdocs gh-deploy</code> - Deploy changes to Github.</li>
 </ul>
-<h2 id="project-layout">Project layout</h2>
+<h2 id="documentation-layout">Documentation layout</h2>
 <pre><code>mkdocs.yml    # The configuration file.
 docs/
     index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
+    communications.md       
+    events.md
+    finances.md
+    general charter info.md
+    newsletter.md
+    services.md
+    website.md
 </code></pre>
               
             </div>
@@ -202,5 +208,5 @@ docs/
 
 <!--
 MkDocs version : 1.0.3
-Build Date UTC : 2018-09-13 14:19:49
+Build Date UTC : 2018-09-13 14:22:48
 -->
