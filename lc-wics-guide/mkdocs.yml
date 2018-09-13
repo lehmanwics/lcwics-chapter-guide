@@ -1,0 +1,11 @@
+site_name: Lehman WiCS Chapter Guide
+nav:
+    - Home: index.md
+    - About: general charter info.md
+    - Services & Logins: services.md
+    - Communications: communications.md
+    - Newsletter: newsletter.md
+    - Events: events.md
+    - Finances: finances.md
+    - Website: website.md
+theme: readthedocs
